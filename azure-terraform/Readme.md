@@ -22,6 +22,6 @@ The goal of this project is to learn terraform, and as we go along advance you s
 
 ### Helpful Resources
 - [Azure's Own GitHub Repo](https://github.com/Azure/RDS-Templates/tree/master/wvd-sh/terraform-azurerm-azuresvirtualdesktop/archive/terraform-azurerm-windowsvirtualdesktop)
-- [YouTube Tutorial]([https://www.youtube.com/watch?v=YmbmpGdhI6w](https://www.youtube.com/watch?v=YmbmpGdhI6w))
-- [Nell's GitHub Repo]([https://github.com/nnellans/terraform-wvd/blob/main/README.md](https://github.com/nnellans/terraform-wvd/blob/main/README.md))
-- [Schennering's Blogpost]([https://schnerring.net/blog/deploy-azure-virtual-desktop-avd-using-terraform-and-azure-active-directory-domain-services-aadds/](https://schnerring.net/blog/deploy-azure-virtual-desktop-avd-using-terraform-and-azure-active-directory-domain-services-aadds/))
+- [YouTube Tutorial](https://www.youtube.com/watch?v=YmbmpGdhI6w)
+- [Nell's GitHub Repo](https://github.com/nnellans/terraform-wvd/blob/main/README.md)
+- [Schennering's Blogpost](https://schnerring.net/blog/deploy-azure-virtual-desktop-avd-using-terraform-and-azure-active-directory-domain-services-aadds/)
